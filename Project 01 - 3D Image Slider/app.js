@@ -1,5 +1,5 @@
 function tiltCards(){
-    VanillaTilt.init(document.querySelectorAll(".banner .slider"), {
+    VanillaTilt.init(document.querySelectorAll(".banner"), {
         max: 19,
         speed: 3000,
         glare: true,
